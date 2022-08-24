@@ -1,0 +1,224 @@
+.App {
+    text-align: center;
+}
+
+.cart {
+    letter-spacing: 20px;
+    padding: 0 10px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+
+.list {
+    margin: 30px 0px;
+    justify-content: center;
+    list-style: none;
+}
+
+.list-item {
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.list-link {
+    text-align: center;
+}
+
+
+.list-icon {
+    text-align: center;
+}
+
+.footer {
+    margin: 40px 0 0 0;
+    padding: 10px;
+    background-color: grey;
+    text-align: center;
+}
+
+
+/* contact section */
+
+.contact {
+    margin: 0px;
+    padding: 20px;
+    background-color: grey;
+    text-align: center;
+}
+
+.contact-header {
+    padding: 20px;
+}
+
+.contact > h3 {
+    padding: 20px;
+}
+
+.contact-list {
+    list-style: none;
+    font-size: 30px;
+    border: 1px solid black;
+}
+
+.contact-list-item {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+}
+
+.contact > ul > li > a {
+    cursor: pointer;
+}
+
+
+/* about section */
+
+.about {
+    padding: 30px;
+    text-align: center;
+    background-color: grey;
+}
+
+.about-para {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    padding: 20px;
+    width: 320px;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+}
+
+.button {
+    margin: 0 20px;
+}
+
+
+.about-input {
+    width: 200px;
+    border: 1px solid darkgrey;
+    border-radius: 5px;
+}
+
+.about-profile {
+    position: absolute;
+    right: 8%;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.about-detail {
+    color: darkgrey;
+    margin: 20px 20px 10px 20px;
+}
+
+.about-detail2 {
+    color: rgb(50, 48, 48);
+    font-size: 15px;
+    margin: 0 20px 30px 20px;
+}
+
+.about-detail3 {
+    width: 300px;
+    text-align: left;
+    margin: 0 auto;
+    color:rgb(37, 50, 50);
+}
+
+
+/* list section */
+
+.list2 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: grey;
+    text-align: center;
+}
+
+.list2-header {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.list2-items {
+    padding: 20px;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list2-para {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.list2-input {
+    border: 1px solid darkgrey;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+.list2-button {
+    border: 1px solid darkgrey;
+    background-color: darkgrey;
+    margin: 5px;
+    height: 28px;
+    width: 25px;
+}
+
+.list2-list {
+    list-style: none;
+}
+
+
+/* login section */
+
+.login {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.login-page {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid darkgrey;
+    border-radius: 10px;
+}
+
+.btn {
+    margin: 5px 10px;
+}
+
+
+.CheckOut {
+    position: absolute;
+    background-color: grey;
+    bottom: 0;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 10px;
+    width: 100%;
+}
+
+.checkout-button {
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+}
+
+.final {
+    background-color: grey;
+    color: darkgrey;
+    text-align: center;
+    padding: 50px 0;
+}
